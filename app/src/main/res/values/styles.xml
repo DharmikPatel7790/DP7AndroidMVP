@@ -8,4 +8,15 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+
+
+    <style name="FontRegular">
+        <!--Add your font name below-->
+        <!--<item name="fontPath">fonts/your_font.ttf</item>-->
+    </style>
+
+    <style name="FontLight">
+        <!--<item name="fontPath">fonts/your_font.ttf</item>-->
+    </style>
+
 </resources>

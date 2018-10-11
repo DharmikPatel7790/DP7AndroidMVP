@@ -1,7 +1,9 @@
-package com.xperttech;
+package com.xperttech.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.xperttech.R;
 
 public class MainActivity extends AppCompatActivity {
 
