@@ -8,7 +8,6 @@ public enum ApiRequestUrlEnum {
 
     USER_LOGIN("login");
 
-
     private String value;
 
     ApiRequestUrlEnum(String value) {
